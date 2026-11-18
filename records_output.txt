@@ -1,0 +1,4 @@
+Apple - 10.0
+Banana - 15.5
+Orange - 20.0
+Pear - 12.0
